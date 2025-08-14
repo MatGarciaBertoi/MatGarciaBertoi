@@ -109,6 +109,9 @@ Sou um entusiasta da tecnologia com uma verdadeira paixão por programação e p
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatGarciaBertoi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+<a>
+    <img src="https://img.shields.io/badge/TOTVS_Protheus-2253A3?style=for-the-badge&logo=totvs&logoColor=white" alt="TOTVS Protheus"/>
+  </a>
 
 </p>
 
