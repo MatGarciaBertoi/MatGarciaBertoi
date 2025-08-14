@@ -25,6 +25,12 @@ Sou um entusiasta da tecnologia com uma verdadeira paixão por programação e p
 <a>
     <img src="https://img.shields.io/badge/TOTVS_Protheus-2253A3?style=for-the-badge&logo=totvs&logoColor=white" alt="TOTVS Protheus"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/Microsoft-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
 <img 
     align="left" 
     alt="HTML"
