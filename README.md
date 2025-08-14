@@ -22,7 +22,9 @@ Sou um entusiasta da tecnologia com uma verdadeira paixão por programação e p
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<a>
+    <img src="https://img.shields.io/badge/TOTVS_Protheus-2253A3?style=for-the-badge&logo=totvs&logoColor=white" alt="TOTVS Protheus"/>
+  </a>
 <img 
     align="left" 
     alt="Python" 
@@ -86,16 +88,6 @@ Sou um entusiasta da tecnologia com uma verdadeira paixão por programação e p
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/><br/>
-
-<img 
-    align="left" 
-    alt="TOTVS Protheus" 
-    title="TOTVS Protheus"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/totvs/totvs-original.svg" 
 />
 <img 
     align="left" 
