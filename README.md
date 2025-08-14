@@ -1,4 +1,6 @@
 ## Matheus Garcia Bertoi
+Estudante de Gestão da Tecnologia da Informação na FATEC Barueri, com sólida experiência prática como Analista de Suporte Nível 1 especializado no ERP TOTVS Protheus. Atuo na linha de frente do atendimento, sendo responsável pelo registro, triagem e resolução de chamados de baixa complexidade, além de orientar usuários sobre as melhores práticas do sistema. Possuo vivência direta em projetos críticos de migração de versão do Protheus (da 12.1.2310 para a 12.1.2404), onde fui responsável pela aplicação de pacotes de atualização e por garantir a estabilidade do ambiente. Combinando o conhecimento acadêmico com a experiência em ambientes corporativos, busco constantemente aplicar soluções eficientes e aprimorar as rotinas diárias através da tecnologia.
+Sou um entusiasta da tecnologia com uma verdadeira paixão por programação e por transformar ideias em soluções funcionais. Um exemplo prático dessa dedicação é um projeto pessoal que desenvolvi: um monitor de preços multi-marketplace. A aplicação, construída em Python, automatiza o rastreamento de produtos na Amazon e Mercado Livre, envia alertas em tempo real via Telegram e exibe o histórico de preços em um dashboard interativo (Streamlit) publicado na nuvem.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
