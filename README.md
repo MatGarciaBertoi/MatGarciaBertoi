@@ -3,14 +3,14 @@ Estudante de Gestão da Tecnologia da Informação na FATEC Barueri, com sólida
 Sou um entusiasta da tecnologia com uma verdadeira paixão por programação e por transformar ideias em soluções funcionais. Um exemplo prático dessa dedicação é um projeto pessoal que desenvolvi: um monitor de preços multi-marketplace. A aplicação, construída em Python, automatiza o rastreamento de produtos na Amazon e Mercado Livre, envia alertas em tempo real via Telegram e exibe o histórico de preços em um dashboard interativo (Streamlit) publicado na nuvem.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/MatGarciaBertoi?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/MatGarciaBertoi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/MatGarciaBertoi?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
